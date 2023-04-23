@@ -1,0 +1,32 @@
+/* body{
+  box-sizing: border-box;
+
+} */
+
+.zero{
+  background-color: gray;
+  height: 10vh;
+}
+
+.first{
+  background-color: gainsboro;
+  border: 0.5px solid gray;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.second{
+  background-color: orange;
+  padding-top: 15px;
+  border: 1px solid gray;
+  font-size: 20px;
+}
+
+
+
+ .container{
+  background-color: white;
+  width: 50%;
+  height: 60vh;
+  margin-top: 20px;
+} 
